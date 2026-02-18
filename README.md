@@ -1,2 +1,1 @@
-# solid_python
-SOLID in python
+# EJERCIOS DE SOLID EN PYTHON
